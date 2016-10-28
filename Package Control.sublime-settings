@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Alignment",
+		"AutoFileName",
+		"Babel",
+		"BracketHighlighter",
+		"Codecs33",
+		"ConvertToUTF8",
+		"CSScomb",
+		"DocBlockr",
+		"EditorConfig",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"Markdown Preview",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Pretty JSON",
+		"ReactJS",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"Terminal"
+	]
+}

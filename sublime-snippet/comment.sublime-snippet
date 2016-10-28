@@ -1,0 +1,14 @@
+<snippet>
+    <tabTrigger>/***</tabTrigger>
+    <content><![CDATA[
+/**
+ * @file ${1:fileName}
+ * @author yangzongjun(yangzongjun@baidu.com)
+ * @date ${2:press command+shift+. to insert date. reference:http://stackoverflow.com/questions/11879481/can-i-add-date-time-for-sublime-snippet/13882791#13882791}
+ */
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <!-- <tabTrigger>hello</tabTrigger> -->
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
