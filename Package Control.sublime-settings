@@ -28,6 +28,8 @@
 		"SublimeLinter",
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
-		"Terminal"
+		"Terminal",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package"
 	]
 }

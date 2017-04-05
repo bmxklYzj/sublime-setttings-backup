@@ -1,4 +1,18 @@
 [
     {"keys": ["command+shift+,"], "command": "add_date" },
     {"keys": ["command+shift+."], "command": "add_time" },
+    {
+        "keys": [
+            "command+e"
+        ],
+        "args": {
+            "action": "expand_abbreviation"
+        },
+        "command": "run_emmet_action",
+        "context": [
+            {
+                "key": "emmet_action_enabled.expand_abbreviation"
+            }
+        ]
+    },
 ]
